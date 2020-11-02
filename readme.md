@@ -7,3 +7,6 @@ Feature list:
 - 1
 - 2
 - 3
+
+installation commands
+```sh npm install```
