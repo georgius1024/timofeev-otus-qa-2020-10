@@ -8,5 +8,10 @@ Feature list:
 - 2
 - 3
 
+security considerations
+* one
+* two
+* three
+
 installation commands
 ```sh npm install```
